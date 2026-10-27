@@ -1,5 +1,7 @@
 # AI YouTube Shorts Generator
 
+> Based on [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) by SamurAIGPT (MIT). The original copyright notice is kept in [LICENSE](LICENSE).
+
 Generate vertical short-form videos from long-form source content.
 
 This project takes a YouTube URL or local video file, transcribes the content, selects a highlight segment with an LLM, crops the video into a 9:16 layout, burns subtitles, and renders a Shorts-ready MP4.
